@@ -1,0 +1,4 @@
+image : asadullahkhan/mongo:v1
+appName: mongo
+secretName: mongo-creds
+replicas: 1
